@@ -1,7 +1,0 @@
-axle x2
-base2 x1
-base2_mirr x1
-motor_mount_mirr x1
-Spur gear 26T_ mod x1
-sprocket x4
-track_element x5

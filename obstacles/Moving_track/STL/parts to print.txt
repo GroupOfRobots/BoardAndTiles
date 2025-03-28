@@ -1,0 +1,5 @@
+bearing_mount x1
+bearing_mount_mirr x1
+motor_mount x1
+motor_mount_mirr x1
+track_support x4
